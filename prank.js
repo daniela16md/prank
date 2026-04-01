@@ -19,7 +19,7 @@ function spawnButton() {
     count++;
 
     // Show popup every 10 clicks
-    if (count % 10 === 0) {
+    if (count % 20 === 0) {
         showPopup();
     }
 
